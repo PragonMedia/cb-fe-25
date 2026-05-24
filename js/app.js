@@ -661,9 +661,9 @@ var STATE_ABBR_TO_NAME = {
 };
 
 var HEADLINE_NO_STATE =
-  "Just Announced: Get Up To $25,000 To Cover Burial Expenses And Unpaid Bills With This Final Expense Insurance Benefit";
+  "Just Announced: Get Up To $25,000 To Cover Funeral Expenses And Unpaid Bills With This Burial Insurance Benefit";
 var HEADLINE_WITH_STATE =
-  "{state} Residents Announcement: Get Up To $25,000 To Cover Burial Expenses And Unpaid Bills With This Final Expense Insurance Benefit";
+  "{state} Residents Announcement: Get Up To $25,000 To Cover Funeral Expenses And Unpaid Bills With This Burial Insurance Benefit";
 
 function setHeadlineState(name) {
   var el = document.getElementById("headline-title");
